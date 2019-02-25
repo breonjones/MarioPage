@@ -10,5 +10,21 @@ h1{
 margin:0;
 display:inline-block;
 }
+img{
+    width:100px;
+    height:auto;
+}
+nav{
+    border-style:double;
+}
+ul{
+    padding:0;
+    margin-left:25%
+}
+
+
+
+
+
 
 
