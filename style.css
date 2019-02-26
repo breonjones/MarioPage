@@ -1,6 +1,7 @@
 body{
     margin-right: 10%;
     margin-left:10%;
+    background-image: t
 }
 #topHeader{
 font: 26px;
@@ -19,13 +20,51 @@ nav{
 }
 ul{
     padding:0px;
-    margin-left:25%
+    margin-left:25%;
 }
 li{
     font-size:0px;
     display:inline-block;
     padding-right:20px;
 }
+#sectionHeader{
+    font-size: 20px;
+    color: blue;
+    font-style: initial;
+text-shadow: 2px 2px #FF0000; 
+}
+#articleHeader{
+font-size: 18px;
+text-decoration: underline;
+}
+#content{
+    display: inline-block;
+    vertical-align: top;
+}
+aside{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#listHeader{
+    font-size: 20px;
+    color: orangered;
+}
+#consoleSection{
+    border-block-end-style: dotted;
+    margin:5px;
+    padding:10px;
+}
+#marioDay{
+    font-style: oblique;
+text-shadow: #FF0000;
+}
+
+
+
+
+
+
 
 
 
